@@ -11,7 +11,7 @@ import sqlite3
 import joblib
 
 # Specify the file path using raw string or escape the backslashes
-file_path = r"C:\Users\dj\OneDrive\Desktop\NLP Project\App\models\emotion_classifier_pipe_lr.pkl"
+file_path = r"\App\models\emotion_classifier_pipe_lr.pkl"
 
 # Load the file using joblib
 try:
